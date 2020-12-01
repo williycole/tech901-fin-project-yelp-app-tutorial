@@ -1,0 +1,5 @@
+<div class="App">
+  <h1>ravenous</h1>
+  <!-- Add SearchBar component here -->
+  <!-- Add BusinessList component here --> 
+</div>
